@@ -5,9 +5,9 @@ W main fragmencie aplikacji wygląda ona następująco:<br>
 Na głownej stronie, możemy odczytać aktualne kursy par walutowych oraz datę ostatniego odświeżenia danych. Na dole aplikacji widnieje przycisk, który przenosi nas do kolejnej aktywności czyli symulatora tradingu.<br>
 <image src="opisowefoty/tradeg.jpg"><br>
 W oknie symulatora, możemy wybrać sobie pare walutową, którą chcemy.<br>
-<image src="opisowefoty/trade2g.jpg><br>
+<image src="opisowefoty/trade2g.jpg"><br>
 Wpisać wolumen(mnożnik trade'a) i wykonać trade!<br>
-<image src="opisowefoty/trade3.jpg><br>
+<image src="opisowefoty/trade3.jpg"><br>
 
 
 ## Authors
