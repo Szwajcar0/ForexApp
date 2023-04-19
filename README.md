@@ -6,7 +6,7 @@ Na głownej stronie, możemy odczytać aktualne kursy par walutowych oraz datę 
 <image src="opisowefoty/tradeg.jpg"><br>
 W oknie symulatora, możemy wybrać sobie pare walutową, którą chcemy.<br>
 <image src="opisowefoty/trade2g.jpg"><br>
-Wpisać wolumen(mnożnik trade'a) i wykonać trade!<br>
+Po wybraniu pary walutowej możemy wpisać wolumen(mnożnik trade'a) i wykonać trade!<br>
 <image src="opisowefoty/trade3.jpg"><br>
 
 
