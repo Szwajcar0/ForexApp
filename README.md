@@ -14,5 +14,5 @@ Po wykonaniu trade'u widnieje on w drugim oknie aplikacji, dzięki czemu mamy na
 ## Authors
 
 - [@Igor Kowalski](https://github.com/Szwajcar0)
-- [@Paweł Pijanowski]()
+- [@Paweł Pijanowski](https://github.com/Hendi777)
 ## License
